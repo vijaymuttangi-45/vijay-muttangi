@@ -5,3 +5,5 @@ Hello! My name is Vijay Muttangi, and I am a Computer Science and Information Te
 Currently learning C and C++ programming.
 
 Interested in data structures and software development.
+
+Goal: become a skilled software engineer and contribute to open source.
